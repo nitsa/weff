@@ -7,4 +7,4 @@ References in public available literature pertaining to a completely serverless 
 
 This talk relates to p2p communication without the need of a third party (intermediate server or other) for initiating the communication.
 
-Nikolaos Tsapakis is a reverse engineering enthusiast and poetry lover from Greece. He has been working as a security & software engineer in companies like NCR, Persado, Fujitsu, Symantec, Citrix. He has also been writing papers or presented for Virus Bulletin, 2600 magazine, Hakin9, leHACK, Athcon, Symantec, Deepsec 2023. George Tselos is a computer science tutor who lives and works in Athens, Greece. He is interested in embedded systems, microcontrollers, peripheral device development.
+Nikolaos Tsapakis is a reverse engineering enthusiast and poetry lover from Greece. He has been working as a security & software engineer in various companies. He has also been writing papers or presented for Virus Bulletin, 2600 magazine, Hakin9, leHACK, Athcon, Symantec, Deepsec. George Tselos is a computer science tutor who lives and works in Athens, Greece. He is interested in embedded systems, microcontrollers, peripheral device development.
