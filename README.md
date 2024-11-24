@@ -1,7 +1,7 @@
 # WEFF
 WEFF : p2p Communication without Third Party (Deepsec 2023)
 
-Ref 1 : https://deepsec.net/speaker.html#PSLOT644
+Ref 1 : https://deepsec.net/archive/2023.deepsec.net/speaker.html#PSLOT644
 
 Ref 2 : https://vimeo.com/906871762
 
